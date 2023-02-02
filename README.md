@@ -5,23 +5,6 @@ Hi there, I'm **Sif Et tabaa**, a **Fullstack developer**.
 I am  **[Spanish](https://es.wikipedia.org/wiki/España)**, and I Speak English!
 
 
-### Talking about Personal Stuffs:
-👦🏻 I'm a recent graduate from The Bridge Digital Talent Accelerator 🎓 where I specialized in the MERN stack (MongoDB, Express, React, Node.js).
-
-💻 Ever since I was a child, I've been fascinated by technology and how it can improve people's lives. This interest led me to study computer science and later, to join The Bridge.
-
-🔧 During my training, I acquired valuable programming and problem-solving skills, and participated in team projects that allowed me to put my learning into practice.
-
-⚡️ Now, as a Junior MERN developer, I'm eager to apply my knowledge and skills to help companies achieve their technological goals.
-
-💬 I'm available to work on both remote and office projects, and I'm always open to listen and learn from more experienced developers.
-
-🤝 My goal is to be part of a collaborative and dynamic team where I can continue to grow professionally and add value to the company through my work.
-
-- 💬 Ask me about anything, I am happy to help.
-- 📫 Please email me if you have any questions; 
-            
-            - sifbusinesswork@gmail.com
 
 ### Languages and Tools:
   <p align="center">
@@ -42,6 +25,23 @@ I am  **[Spanish](https://es.wikipedia.org/wiki/España)**, and I Speak English!
   <img align="center" alt="mysql" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
   <img align="center" alt="npm" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
       </p> 
+
+### Talking about Personal Stuffs:
+👦🏻 I'm a recent graduate from The Bridge Digital Talent Accelerator 🎓where I specialized in the MERN stack (MongoDB, Express, React, Node.js).
+
+💻 Ever since I was a child, I've been fascinated by technology and how it can improve people's lives.
+This interest led me study web development and later, to join The Bridge.
+
+🔧 During my training, I acquired valuable programming and problem-solving skills, and participated in team projects that allowed me to put my learning into practice.
+⚡️ Now, as a Junior MERN developer, I'm eager to apply my knowledge and skills to help companies achieve their technological goals.
+💬 I'm available to work on both remote and office projects, and I'm always open to listen and learn from more experienced developers.
+🤝 My goal is to be part of a collaborative and dynamic team where I can continue to grow professionally and add value to the company through my work.
+
+- 💬 Ask me about anything, I am happy to help.
+- 📫 Please email me if you have any questions; 
+            
+            - sifbusinesswork@gmail.com
+
       
 ### Contact
 <p align="center">
