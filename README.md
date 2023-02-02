@@ -33,8 +33,11 @@ I am  **[Spanish](https://es.wikipedia.org/wiki/España)**, and I Speak English!
 This interest led me study web development and later, to join The Bridge.
 
 🔧 During my training, I acquired valuable programming and problem-solving skills, and participated in team projects that allowed me to put my learning into practice.
+
 ⚡️ Now, as a Junior MERN developer, I'm eager to apply my knowledge and skills to help companies achieve their technological goals.
+
 💬 I'm available to work on both remote and office projects, and I'm always open to listen and learn from more experienced developers.
+
 🤝 My goal is to be part of a collaborative and dynamic team where I can continue to grow professionally and add value to the company through my work.
 
 - 💬 Ask me about anything, I am happy to help.
