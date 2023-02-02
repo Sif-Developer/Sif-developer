@@ -18,8 +18,10 @@ I am  **[Spanish](https://es.wikipedia.org/wiki/España)**, and I Speak English!
 
 🤝 My goal is to be part of a collaborative and dynamic team where I can continue to grow professionally and add value to the company through my work.
 
-            - 💬 Ask me about anything, I am happy to help;
-            - 📫 Please email me if you have any questions. 
+- 💬 Ask me about anything, I am happy to help.
+- 📫 Please email me if you have any questions; 
+            
+            - sifbusinesswork@gmail.com
 
 ### Languages and Tools:
   <p align="center">
@@ -33,19 +35,15 @@ I am  **[Spanish](https://es.wikipedia.org/wiki/España)**, and I Speak English!
   <img align="center" alt="Sif-Mongodb" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
   <img align="center" alt="Sif-Git" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Sif-VisualStudio" height="30" width="30" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-  <img align="center" alt="Sif-netlify" height="30" width="30" src="https://cdn.svgporn.com/logos/netlify.svg">
   <img align="center" alt="Sif-Slack" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg"> 
   <img align="center" alt="slack" height="30" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
   <img align="center" alt="git" height="30" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
   <img align="center" alt="Sif-github" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-  <img align="center" alt="jenkins" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg">
-  <img align="center" alt="jest" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
   <img align="center" alt="mysql" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
   <img align="center" alt="npm" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
       </p> 
-  
-
-### About me, social & professional 
+      
+### Contact
 <p align="center">
    <a href = "sifbusinesswork@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/sif-ettabaa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
