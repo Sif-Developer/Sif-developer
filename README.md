@@ -38,8 +38,6 @@ This interest led me study web development and later, to join The Bridge.
 
 💬 I'm available to work on both remote and office projects, and I'm always open to listen and learn from more experienced developers.
 
-🤝 My goal is to be part of a collaborative and dynamic team where I can continue to grow professionally and add value to the company through my work.
-
 - 💬 Ask me about anything, I am happy to help.
 - 📫 Please email me if you have any questions; 
             
