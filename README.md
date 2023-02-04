@@ -26,7 +26,7 @@ I am  **[Spanish](https://es.wikipedia.org/wiki/España)**, and I Speak English!
   <img align="center" alt="npm" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
       </p> 
 
-### Talking about Personal Stuffs:
+### About Me:
 👦🏻 I'm a recent graduate from The Bridge Digital Talent Accelerator 🎓where I specialized in the MERN stack (MongoDB, Express, React, Node.js).
 
 💻 Ever since I was a child, I've been fascinated by technology and how it can improve people's lives.
